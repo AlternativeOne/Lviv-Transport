@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about_version">Версія: %s</string>
+    <string name="about_developer">Розробник: %s</string>
+
+    <!-- Attributions -->
+    <string name="about_lad">Цей додаток використовує дані з веб-порталу Львівської Міської Адміністрації.\n(https://lad.lviv.ua/)</string>
+    <string name="about_map">Цей додаток використовує мапу від спільноти OpenStreetMap.</string>
+    <string name="about_feather_icons">Цей додаток використовує іконки Feather. (https://feathericons.com/)</string>
+
+    <string name="route_input_hint">Маршрут…</string>
+    <string name="stop_input_hint">Зупинка…</string>
+    <string name="address_input_hint">Адреса…</string>
+    <string name="loading_title">Думаю…</string>
+    <string name="stop_item_title">Зупинка #%d</string>
+    <string name="available_vehicles">Транспорту на маршруті: %d</string>
+    <string name="stop_no_available_vehicles">Найближчим часом нічого не приїде</string>
+    <string name="address_not_found">Адреси не знайдено</string>
+    <string name="route_not_found">Маршрут не знайдено</string>
+    <string name="stop_not_found">Зупинку не знайдено</string>
+    <string name="error_has_happened">Сталася помилка</string>
+    <string name="network_connected_error">Проблеми з інтернет з\'єднанням</string>
+    <string name="empty_input">Нічого не введено</string>
+    <string name="bus">Автобус</string>
+    <string name="tram">Трамвай</string>
+    <string name="trolleybus">Тролейбус</string>
+    <string name="route">Маршрут</string>
+    <string name="stop">Зупинка</string>
+    <string name="address">Адреса</string>
+    <string name="settings_dialog_title">Налаштування</string>
+    <string name="settings_dialog_about_title">Про додаток</string>
+    <string name="settings_dialog_libraries_title">Бібліотеки</string>
+    <string name="settings_dialog_filter_addresses_title">Фільтрувати адреси</string>
+    <string name="settings_dialog_filter_addresses_summary">Показувати лише адреси, які належать\nдо міста Львова.\nПримітка: результат може бути неточним.</string>
+    <string name="settings_dialog_update_more_often_title">Оновлювати частіше</string>
+    <string name="settings_dialog_update_more_often_summary">Оновлювати дані частіше ніж\nвстановлено за умовчанням.\nДодаток буде перезапущено.</string>
+    <string name="lang_switch_title">Мова</string>
+    <string name="no_internet_message_box">Немає з\'єднання з інтернетом</string>
+    <string name="reconnect_message">Будь ласка, під\'єднайтеся до інтернету та спробуйте знову</string>
+    <string name="exit_dialog_title">Ви бажаєте вийти?</string>
+    <string name="exit_dialog_yes_button_title">Так</string>
+    <string name="offline_mode_enabled_toast_message">Режим Без Інтернету активовано</string>
+    <string name="offline_mode_disabled_toast_message">Режим Без Інтернету деактивовано</string>
+    <string name="routing_title">Прокладання шляху</string>
+    <string name="select_finish_stop">Виберіть кінцеву зупинку</string>
+    <string name="select_start_stop">Виберіть початкову зупинку</string>
+    <string name="cant_routing_message">Шлях не може бути прокладений</string>
+    <string name="building_route_message">Будую шлях…</string>
+    <string name="route_built_prefix">Шлях побудовано:</string>
+    <string name="and">та</string>
+    <!--<string name="following_vehicle_toast_message">Відстежування транспорту %s</string>-->
+    <string name="reloading_toast_message">Оновлення…</string>
+    <string name="close_button_title">Закрити</string>
+    <string name="location_disabled_message">Відстежування місцеположення вимкнено. Увімкніть, щоби визначити місцеположення.</string>
+    <string name="no_location_message">Неможливо визначити місцеположення. Можливо наявні помилки в роботі пристроїв геолокації</string>
+
+</resources>

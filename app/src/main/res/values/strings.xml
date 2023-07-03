@@ -1,0 +1,67 @@
+<resources>
+
+    <string name="developer_name" translatable="false">AlternativeOne</string>
+
+    <string name="about_version">Version: %s</string>
+    <string name="about_developer">Developer: %s</string>
+
+    <!-- Attributions -->
+    <string name="about_lad">This app uses data from web-portal of Lviv City Administration.\n(https://lad.lviv.ua/)</string>
+    <string name="about_map">This app uses map by OpenStreetMap community.</string>
+    <string name="about_feather_icons">This app uses Feather icons. (https://feathericons.com/)</string>
+    <string name="about_stop_icon">This app uses Bus icon by Icons8 as stop\'s icon. (https://icons8.com/icon/VF40vCHPoR5S/bus)</string>
+    <string name="about_railway_station_icon">This app uses Railway Station icon by Icons8 as railway station\'s icon. (https://icons8.com/icon/15189/railway-station)</string>
+    <string name="about_address_icon">This app uses Map Marker icon by Icons8 as address marker. (https://icons8.com/icon/JJJmnW0Qqaaw/map-marker)</string>
+    <string name="about_location_icon">This app uses Location Marker icon by Icons8 as location marker. (https://icons8.com/icon/85798/place-marker)</string>
+    <string name="about_logo">This app uses Bus icon by Icons8 as app\'s icon. (https://icons8.com/icon/KXKIFxpA3E9g/bus)</string>
+    <string name="map_copyright">© OpenStreetMap contributors</string>
+
+    <string name="route_input_hint">Route…</string>
+    <string name="stop_input_hint">Stop…</string>
+    <string name="address_input_hint">Address…</string>
+    <string name="loading_title">Thinking…</string>
+    <string name="stop_item_title">Stop #%d</string>
+    <string name="available_vehicles">Vehicles on route: %d</string>
+    <string name="stop_no_available_vehicles">Nothing will arrive in the near future</string>
+    <string name="address_not_found">Address not found</string>
+    <string name="route_not_found">Route not found</string>
+    <string name="stop_not_found">Stop not found</string>
+    <string name="error_has_happened">Error happened</string>
+    <string name="network_connected_error">Problems with Internet connection</string>
+    <string name="empty_input">Nothing inputted</string>
+    <string name="bus">Bus</string>
+    <string name="tram">Tram</string>
+    <string name="trolleybus">Trolleybus</string>
+    <string name="route">Route</string>
+    <string name="stop">Stop</string>
+    <string name="address">Address</string>
+    <string name="settings_dialog_title">Settings</string>
+    <string name="settings_dialog_about_title">About</string>
+    <string name="settings_dialog_libraries_title">Libraries</string>
+    <string name="settings_dialog_filter_addresses_title">Filter addresses</string>
+    <string name="settings_dialog_filter_addresses_summary">Show only addresses belong to Lviv city.\nNote: this may be inaccurate.</string>
+    <string name="settings_dialog_update_more_often_title">Update more often</string>
+    <string name="settings_dialog_update_more_often_summary">Update data more often than set by default.\nApp will be restarted.</string>
+    <string name="lang_switch_en_title" translatable="false">English</string>
+    <string name="lang_switch_ua_title" translatable="false">Українська</string>
+    <string name="lang_switch_title">Language</string>
+    <string name="no_internet_message_box">No Internet connection</string>
+    <string name="reconnect_message">Please, reconnect to Internet and try again</string>
+    <string name="exit_dialog_title">Do you want to exit?</string>
+    <string name="exit_dialog_yes_button_title">Yes</string>
+    <string name="offline_mode_enabled_toast_message">Offline Mode enabled</string>
+    <string name="offline_mode_disabled_toast_message">Offline Mode disabled</string>
+    <string name="routing_title">Routing</string>
+    <string name="select_finish_stop">Select finish stop</string>
+    <string name="select_start_stop">Select start stop</string>
+    <string name="cant_routing_message">Route cannot be build</string>
+    <string name="building_route_message">Building route…</string>
+    <string name="route_built_prefix">Route built:</string>
+    <string name="and">and</string>
+    <!--<string name="following_vehicle_toast_message">Following vehicle %s</string>-->
+    <string name="reloading_toast_message">Updating…</string>
+    <string name="close_button_title">Close</string>
+    <string name="location_disabled_message">Location service disabled. Enable to find location.</string>
+    <string name="no_location_message">Cannot find location. Maybe, there are errors in geolocation services\' work</string>
+
+</resources>

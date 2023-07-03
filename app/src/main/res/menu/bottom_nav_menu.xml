@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/search_route_item"
+        android:icon="@drawable/ic_nav_route_black"
+        android:title="@string/route" />
+
+    <item
+        android:id="@+id/search_stop_item"
+        android:icon="@drawable/ic_nav_stop_black"
+        android:title="@string/stop" />
+
+    <item
+        android:id="@+id/search_address_item"
+        android:icon="@drawable/ic_nav_address_black"
+        android:title="@string/address" />
+
+</menu>
